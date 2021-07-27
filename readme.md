@@ -46,7 +46,6 @@ Next steps... :nut_and_bolt:
 <img src="https://img.shields.io/static/v1?label=&message=Elixir&color=1F2729&style=for-the-badge&logo=Elixir"/>&nbsp;
 </p>
 
-<br>
 <h3 align="center">
 About me: :smirk:
 </h3>
