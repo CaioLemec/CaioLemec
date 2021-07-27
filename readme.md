@@ -9,7 +9,7 @@ Caio Lemec
 Hello there, community! 👋
 </h2>
 <p align="center">
-My name is Caio Lemec and i'm a passionate self-taught front-end developer. I'm from Brazil, living in Rio de Janeiro and currently looking for my fisrt experiense as an developer. I started my career in engineering and marketing, but I found in programming the passion I was looking for to move forward. 
+My name is Caio Lemec and i'm a passionate self-taught front-end developer. I'm from Brazil, living in Rio de Janeiro and currently looking for my first experience as an developer. I started my career in engineering and marketing, but I found in programming the passion I was looking for to move forward. 
 </p>
 
 <div align="center">
