@@ -4,12 +4,10 @@
 Caio Lemec 
 </h1>
 
-<h2 align="center">
-Hello there, community! 👋
-</h2>
-<p align="center">
+<div align="center">
+<h2 align="center">Hello there, community! 👋</h2>
 My name is Caio Lemec and i'm a passionate self-taught front-end developer. I'm from Brazil, living in Rio de Janeiro and currently looking for my first experience as an developer. I started my career in engineering and marketing, but I found in programming the passion I was looking for to move forward. 
-</p>
+</div>
 
 <div align="center">
  <h3>Technologies & Tools: :wrench:</h3>
