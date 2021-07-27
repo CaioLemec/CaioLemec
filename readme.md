@@ -50,6 +50,8 @@ My name is Caio Lemec and i'm a passionate self-taught front-end developer. I'm 
 :star2: Fun fact: I'm a huge fan of Lord of the Rings.  <br/> 
 </div>
 
+<br>
+
 <div align="center">
 
  ![Lemec's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiolemec&show_icons=true&theme=dracula)
