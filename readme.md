@@ -47,7 +47,7 @@ My name is Caio Lemec and i'm a passionate self-taught front-end developer. I'm 
  :heart: &nbsp; In love with frontend development, scuba diving and video games.  <br/> 
  :beginner: &nbsp; Learning all about open source and ready to collaborate.  <br/> 
  :seedling: &nbsp; Eternal apprentice hungry for knowledge.  <br/> 
- :star2: &nbsp; I'm a huge fan of Lord of the Rings.  <br/> 
+ :star2: &nbsp; Huge fan of Lord of the Rings.  <br/> 
 </div>
 
 <br>
