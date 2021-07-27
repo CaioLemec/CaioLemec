@@ -12,7 +12,6 @@ Hello there, community! 👋
 My name is Caio Lemec and i'm a passionate self-taught front-end developer. I'm from Brazil, living in Rio de Janeiro and currently looking for my fisrt experiense as an developer. I started my career in engineering and marketing, but I found in programming the passion I was looking for to move forward. 
 </p>
 
-<br>
 <h3 align="center">
 Technologies & Tools: :wrench:
 </h3>
@@ -36,7 +35,6 @@ Technologies & Tools: :wrench:
 <img src="https://img.shields.io/static/v1?label=&message=GNU Bash&color=1F2729&style=for-the-badge&logo=GNU Bash"/>&nbsp;
 </p>
 
-<br>
 <h3 align="center">
 Next steps... :nut_and_bolt:
 </h3>
@@ -59,15 +57,12 @@ About me: :smirk:
  <br/> :star2: Fun fact: I'm a huge fan of Lord of the Rings.
 </p>
 
-<br>
-
 <div align="center">
 
 ![Lemec's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiolemec&show_icons=true&theme=dracula)
 
 </div>
 
-<br>
 <h3 align="center">
 How can you reach me? :wink:
 </h3>
