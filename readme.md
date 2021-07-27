@@ -46,19 +46,17 @@ Next steps... :nut_and_bolt:
 <img src="https://img.shields.io/static/v1?label=&message=Elixir&color=1F2729&style=for-the-badge&logo=Elixir"/>&nbsp;
 </p>
 
-<h3 align="center">
-About me: :smirk:
-</h3>
-<p align="center">
+<div align="center">
+ <h3>About me: :smirk:</h3>
  <br/> :open_file_folder: &nbsp; Learning all about open source and ready to collaborate.
  <br/> :heart: &nbsp; In love with frontend development, scuba diving and video games 
  <br/> :books: &nbsp; Eternal apprentice hungry for knowledge.
  <br/> :star2: Fun fact: I'm a huge fan of Lord of the Rings.
-</p>
+</div>
 
 <div align="center">
 
-![Lemec's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiolemec&show_icons=true&theme=dracula)
+ ![Lemec's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiolemec&show_icons=true&theme=dracula)
 
 </div>
 
