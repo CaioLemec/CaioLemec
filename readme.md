@@ -1,5 +1,4 @@
 <img width="auto" src="./aboutMe.gif" alt="Caio Lemec gif">
-<p align="center">{ he / him / his / ele / dele } </p>
 
 <h1 align="center">
 Caio Lemec 
