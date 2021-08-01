@@ -28,9 +28,8 @@ My name is Caio Lemec and i'm a passionate self-taught front-end developer. I'm 
 
 <div align="center">
  <h3>Next steps... :nut_and_bolt:</h3>
- <img src="https://img.shields.io/static/v1?label=&message=REACT NATIVE&color=1F2729&style=for-the-badge&logo=React"/>&nbsp;
  <img src="https://img.shields.io/static/v1?label=&message=Node&color=1F2729&style=for-the-badge&logo=Node.js"/>&nbsp;
- <img src="https://img.shields.io/static/v1?label=&message=DevOps&color=1F2729&style=for-the-badge&logo=Azure DevOps"/>&nbsp;
+ <img src="https://img.shields.io/static/v1?label=&message=REACT NATIVE&color=1F2729&style=for-the-badge&logo=React"/>&nbsp;
  <img src="https://img.shields.io/static/v1?label=&message=Docker&color=1F2729&style=for-the-badge&logo=Docker"/>&nbsp;
  <img src="https://img.shields.io/static/v1?label=&message=Elixir&color=1F2729&style=for-the-badge&logo=Elixir"/>&nbsp;
 </div>
