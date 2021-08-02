@@ -31,7 +31,7 @@ My name is Caio Lemec and i'm a passionate self-taught front-end developer. I'm 
 </div>
 
 <div align="center">
- <h3>Backlog: :mortar_board:</h3>
+ <h3>Interest list: :mortar_board:</h3>
  <img src="https://img.shields.io/static/v1?label=&message=Node&color=1F2729&style=for-the-badge&logo=Node.js" alt="NODE" />&nbsp;
  <img src="https://img.shields.io/static/v1?label=&message=REACT NATIVE&color=1F2729&style=for-the-badge&logo=React" alt="REACT NATIVE" />&nbsp;
  <img src="https://img.shields.io/static/v1?label=&message=Docker&color=1F2729&style=for-the-badge&logo=Docker" alt="DOCKER" />&nbsp;
