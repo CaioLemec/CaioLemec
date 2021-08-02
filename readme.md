@@ -24,7 +24,7 @@ My name is Caio Lemec and i'm a passionate self-taught front-end developer. I'm 
 
 <div align="center">
 <h3>Another tools: :hammer:</h3>
-    <img src="https://img.shields.io/static/v1?label=&message=Microsoft Excel&color=1F2729&style=for-the-badge&logo=Microsoft Excel" alt="MS EXCEL" />&nbsp;
+    <img src="https://img.shields.io/static/v1?label=&message=Excel&color=1F2729&style=for-the-badge&logo=Microsoft Excel" alt="EXCEL" />&nbsp;
     <img src="https://img.shields.io/static/v1?label=&message=Unity&color=1F2729&style=for-the-badge&logo=Unity" alt="UNITY" />&nbsp;
     <img src="https://img.shields.io/static/v1?label=&message=AutoCAD&color=1F2729&style=for-the-badge&logo=Autodesk" alt="AUTOCAD" />&nbsp;
     <img src="https://img.shields.io/static/v1?label=&message=SketchUp&color=1F2729&style=for-the-badge&logo=SketchUp" alt="SCKETCHUP" />&nbsp;
