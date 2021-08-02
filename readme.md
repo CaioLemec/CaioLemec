@@ -6,7 +6,7 @@ My name is Caio Lemec and i'm a passionate self-taught front-end developer. I'm 
 </div>
 
 <div align="center">
- <h3>Technologies & Tools: :wrench:</h3>
+ <h3>Technologies & tools: :wrench:</h3>
  <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=1F2729&style=for-the-badge&logo=HTML5" alt="HTML5" />&nbsp;
  <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=1F2729&style=for-the-badge&logo=CSS3" alt="CSS3" />&nbsp;
  <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=1F2729&style=for-the-badge&logo=JavaScript" alt="JS" />&nbsp;
@@ -23,7 +23,7 @@ My name is Caio Lemec and i'm a passionate self-taught front-end developer. I'm 
  </div>
 
 <div align="center">
-<h3>Another Tools: :hammer:</h3>
+<h3>Another tools: :hammer:</h3>
     <img src="https://img.shields.io/static/v1?label=&message=Microsoft Excel&color=1F2729&style=for-the-badge&logo=Microsoft Excel" alt="MS EXCEL" />&nbsp;
     <img src="https://img.shields.io/static/v1?label=&message=Unity&color=1F2729&style=for-the-badge&logo=Unity" alt="UNITY" />&nbsp;
     <img src="https://img.shields.io/static/v1?label=&message=AutoCAD&color=1F2729&style=for-the-badge&logo=Autodesk" alt="AUTOCAD" />&nbsp;
@@ -31,7 +31,7 @@ My name is Caio Lemec and i'm a passionate self-taught front-end developer. I'm 
 </div>
 
 <div align="center">
- <h3>Next steps... :mortar_board:</h3>
+ <h3>Backlog: :mortar_board:</h3>
  <img src="https://img.shields.io/static/v1?label=&message=Node&color=1F2729&style=for-the-badge&logo=Node.js" alt="NODE" />&nbsp;
  <img src="https://img.shields.io/static/v1?label=&message=REACT NATIVE&color=1F2729&style=for-the-badge&logo=React" alt="REACT NATIVE" />&nbsp;
  <img src="https://img.shields.io/static/v1?label=&message=Docker&color=1F2729&style=for-the-badge&logo=Docker" alt="DOCKER" />&nbsp;
