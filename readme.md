@@ -18,8 +18,8 @@ My name is Caio Lemec and i'm a passionate self-taught front-end developer. I'm 
  <img src="https://img.shields.io/static/v1?label=&message=NEXT&color=1F2729&style=for-the-badge&logo=Next.js" alt="NEXT.js" />&nbsp;
  <img src="https://img.shields.io/static/v1?label=&message=Chakra UI&color=1F2729&style=for-the-badge&logo=Chakra UI" alt="CHAKRA UI" />&nbsp;
  <img src="https://img.shields.io/static/v1?label=&message=Git&color=1F2729&style=for-the-badge&logo=GIT" alt="GIT" />&nbsp;
- <img src="https://img.shields.io/static/v1?label=&message=VSC&color=1F2729&style=for-the-badge&logo=Visual Studio Code" alt="Caio Lemec gif" />&nbsp;
- <img src="https://img.shields.io/static/v1?label=&message=GNU Bash&color=1F2729&style=for-the-badge&logo=GNU Bash" alt="Caio Lemec gif" />&nbsp;
+ <img src="https://img.shields.io/static/v1?label=&message=VSC&color=1F2729&style=for-the-badge&logo=Visual Studio Code" alt="VScode" />&nbsp;
+ <img src="https://img.shields.io/static/v1?label=&message=GNU Bash&color=1F2729&style=for-the-badge&logo=GNU Bash" alt="GNU Bash" />&nbsp;
  </div>
 
 <div align="center">
