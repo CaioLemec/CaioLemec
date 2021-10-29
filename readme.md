@@ -64,4 +64,8 @@ My name is Caio Lemec and I am a passionate self-taught front-end developer. I'm
  <a href="https://www.linkedin.com/in/caiolemec/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=1F2729&style=for-the-badge&logo=linkedin"/>
 </div>
   
+<br>
+
+<div align="center">
 ![snake gif](https://github.com/CaioLemec/CaioLemec/blob/output/github-contribution-grid-snake.gif)
+</div>
