@@ -50,7 +50,7 @@ My name is Caio Lemec and I am a passionate self-taught front-end developer. I'm
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiolemec&show_icons=true&theme=dracula&layout=compact" alt="Lemec's Github Stats" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolemec&show_icons=true&theme=dracula&layout=compact" alt="Lemec's Most Used Languages" />
+<img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=caiolemec&show_icons=true&theme=dracula&layout=compact" alt="Lemec's Github Stats" /><img height="180em" width="100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolemec&show_icons=true&theme=dracula&layout=compact" alt="Lemec's Most Used Languages" />
 </div>
 
 <div align="center">
