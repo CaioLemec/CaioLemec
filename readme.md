@@ -68,6 +68,6 @@ My name is Caio Lemec and I am a passionate self-taught front-end developer. I'm
 
 <div align="center">
  
-![snake gif](https://github.com/CaioLemec/CaioLemec/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/CaioLemec/CaioLemec/blob/output/github-contribution-grid-snake.svg)
  
 </div>
