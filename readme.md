@@ -63,3 +63,5 @@ My name is Caio Lemec and I am a passionate self-taught front-end developer. I'm
  <a href="mailto:caiolemec@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=E-mail&color=1F2729&style=for-the-badge&logo=Gmail"/>
  <a href="https://www.linkedin.com/in/caiolemec/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=1F2729&style=for-the-badge&logo=linkedin"/>
 </div>
+  
+ ![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
