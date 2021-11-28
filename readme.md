@@ -37,7 +37,7 @@ My name is Caio Lemec and I am a passionate self-taught front-end developer. I'm
  <img src="https://img.shields.io/static/v1?label=&message=Node&color=1F2729&style=for-the-badge&logo=Node.js" alt="NODE" />&nbsp;
  <img src="https://img.shields.io/static/v1?label=&message=REACT NATIVE&color=1F2729&style=for-the-badge&logo=React" alt="REACT NATIVE" />&nbsp;
  <img src="https://img.shields.io/static/v1?label=&message=Docker&color=1F2729&style=for-the-badge&logo=Docker" alt="DOCKER" />&nbsp;
- <img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=1F2729&style=for-the-badge&logo=MongoDB" alt="MONGO DB" />&nbsp;
+ <img src="https://img.shields.io/static/v1?label=&message=Mongo DB&color=1F2729&style=for-the-badge&logo=MongoDB" alt="MONGO DB" />&nbsp;
  <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=1F2729&style=for-the-badge&logo=MySQL" alt="MY SQL" />&nbsp;
 </div>
 
