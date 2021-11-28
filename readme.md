@@ -13,7 +13,7 @@ My name is Caio Lemec and I am a passionate self-taught front-end developer. I'm
  <img src="https://img.shields.io/static/v1?label=&message=TYPESCRIPT&color=1F2729&style=for-the-badge&logo=TypeScript" alt="TS" />&nbsp;
  <img src="https://img.shields.io/static/v1?label=&message=LINUX&color=1F2729&style=for-the-badge&logo=Linux" alt="Linux" />&nbsp;
  <img src="https://img.shields.io/static/v1?label=&message=SASS&color=1F2729&style=for-the-badge&logo=Sass" alt="SASS" />&nbsp;
- <img src="https://img.shields.io/static/v1?label=&message=styled-components&color=1F2729&style=for-the-badge&logo=styled-components" alt="STYLED COMPONENTS" />&nbsp;
+ <img src="https://img.shields.io/static/v1?label=&message=styled components&color=1F2729&style=for-the-badge&logo=styled-components" alt="STYLED COMPONENTS" />&nbsp;
  <img src="https://img.shields.io/static/v1?label=&message=REACT&color=1F2729&style=for-the-badge&logo=React" alt="REACT" />&nbsp;
  <img src="https://img.shields.io/static/v1?label=&message=NEXT&color=1F2729&style=for-the-badge&logo=Next.js" alt="NEXT.js" />&nbsp;
  <img src="https://img.shields.io/static/v1?label=&message=Chakra UI&color=1F2729&style=for-the-badge&logo=Chakra UI" alt="CHAKRA UI" />&nbsp;
@@ -29,7 +29,7 @@ My name is Caio Lemec and I am a passionate self-taught front-end developer. I'm
     <img src="https://img.shields.io/static/v1?label=&message=AutoCAD&color=1F2729&style=for-the-badge&logo=Autodesk" alt="AUTOCAD" />&nbsp;
     <img src="https://img.shields.io/static/v1?label=&message=SketchUp&color=1F2729&style=for-the-badge&logo=SketchUp" alt="SCKETCHUP" />&nbsp;
      <img src="https://img.shields.io/static/v1?label=&message=Canva&color=1F2729&style=for-the-badge&logo=Canva" alt="CANVA" />&nbsp;
-    <img src="https://img.shields.io/static/v1?label=&message=Adobe Premiere Pro&color=1F2729&style=for-the-badge&logo=Adobe Premiere Pro" alt="ADOBE PREMIERE" />&nbsp;
+    <img src="https://img.shields.io/static/v1?label=&message=Adobe Premiere&color=1F2729&style=for-the-badge&logo=Adobe Premiere Pro" alt="ADOBE PREMIERE" />&nbsp;
 </div>
 
 <div align="center">
