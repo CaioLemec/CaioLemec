@@ -28,6 +28,8 @@ My name is Caio Lemec and I am a passionate self-taught front-end developer. I'm
     <img src="https://img.shields.io/static/v1?label=&message=Unity&color=1F2729&style=for-the-badge&logo=Unity" alt="UNITY" />&nbsp;
     <img src="https://img.shields.io/static/v1?label=&message=AutoCAD&color=1F2729&style=for-the-badge&logo=Autodesk" alt="AUTOCAD" />&nbsp;
     <img src="https://img.shields.io/static/v1?label=&message=SketchUp&color=1F2729&style=for-the-badge&logo=SketchUp" alt="SCKETCHUP" />&nbsp;
+     <img src="https://img.shields.io/static/v1?label=&message=Canva&color=1F2729&style=for-the-badge&logo=Canva" alt="Canva" />&nbsp;
+    <img src="https://img.shields.io/static/v1?label=&message=Adobe Premiere Pro&color=1F2729&style=for-the-badge&logo=Adobe Premiere Pro" alt="Adobe Premiere" />&nbsp;
 </div>
 
 <div align="center">
