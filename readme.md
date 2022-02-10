@@ -2,7 +2,7 @@
 
 <div align="center">
 <h2 align="center">Hello there, community! 👋</h2>
-My name is Caio Lemec and I am a passionate self-taught front-end developer. I'm from Brazil, living in Rio de Janeiro and currently work as an intern in software developer. I started my career in engineering and marketing, but found in programming the passion I was looking for to move forward.
+My name is Caio Lemec and I am a passionate self-taught front-end developer. I'm from Brazil, living in Rio de Janeiro and currently work as an intern in software developer. I started my career in engineering and marketing, but found in programming the passion I was looking for move forward.
 </div>
 
 <div align="center">
