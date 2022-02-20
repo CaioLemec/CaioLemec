@@ -66,6 +66,7 @@ My name is Caio Lemec and I am a passionate self-taught front-end developer. I'm
 <div align="center">
  <h3>How can you reach me? :wink:</h3>
  <a href="https://t.me/caiolemec"><img src="https://img.shields.io/badge/Telegram-1F2729?style=for-the-badge&logo=telegram&logoColor=white"/>
+ <a href="https://www.caiolemec.com.br/"><img src="https://img.shields.io/badge/Telegram-1F2729?style=for-the-badge&logo=chrome&logoColor=white"/>
  <a href="mailto:caiolemec@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=E-mail&color=1F2729&style=for-the-badge&logo=Gmail"/>
  <a href="https://www.linkedin.com/in/caiolemec/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=1F2729&style=for-the-badge&logo=linkedin"/>
 </div>
